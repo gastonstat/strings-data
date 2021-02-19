@@ -1,4 +1,4 @@
-# Data sets for book Handling Strings with R
+# Data sets for Handling Strings with R
 
 This repository contains files of data sets used in Gaston Sanchez's book __Handling Strings With R__
 
@@ -11,4 +11,7 @@ https://en.wikipedia.org/wiki/Men%27s_long_jump_world_record_progression
 
 - `logfile.txt`: plain text file of a _server log file_
 
+- `top100.txt`: text file with the list of the "Top 105.3 of 1991." hits broadcasted by 
+"Modern Rock" station KITS San Francisco ("Live-105")
 
+- `abc-local-radio.csv`: CSV file containing data from Australian _ABC_'s radio stations
